@@ -49,6 +49,7 @@ Only laptops should be found on the laptop page.
 
 There is also a monitor on the page with laptops.
 
+<img src="https://user-images.githubusercontent.com/68484432/147264090-98221960-6350-441e-bd70-771a6561fd9d.png" width="350" height="350"/>
 --------------------------------------
 
 ## Button "Previous" does not work properly
@@ -155,3 +156,5 @@ All words must be in Romanian.
 **Actual result**
 
 The word "clouds" remains untranslated.
+
+<img src="https://user-images.githubusercontent.com/68484432/147265998-48c80e6b-1891-465f-9674-d14bc8fae60b.png" width="350" height="350"/>

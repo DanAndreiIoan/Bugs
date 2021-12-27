@@ -13,7 +13,7 @@ When I type letters in the search field they are not displayed.
 **Steps to reproduce**
 
 1. Go https://www.fieni.ro/
-2. Scroll down to the bottom of the page.
+2. Scroll down to the bottom of the page
 3. On the search field start type words
 
 **Expected result**
@@ -38,7 +38,7 @@ On the page for laptops there is a product that does not belong to this category
 
 ***Steps to reproduce**
 1. Go https://www.demoblaze.com//
-2. Click on "Laptops" categories.
+2. Click on "Laptops" categories
 3. Click "Next"
 
 **Expected result**
@@ -65,7 +65,7 @@ When I click on the "Previous" button it takes me to the home page, when it shou
 **Steps to reproduce**
 
 1. Go https://www.demoblaze.com//
-2. Click on "Laptops" categories.
+2. Click on "Laptops" categories
 3. Click "Next" 4. Click "Previous"
 
 **Expected result**
@@ -91,7 +91,7 @@ I can place an order even if I don't have any products in the cart.
 
 **Steps to reproduce**
 1. Go https://www.demoblaze.com//
-2. Click on "Cart".
+2. Click on "Cart"
 3. Click "Place Order"
 
 **Expected result**
@@ -116,9 +116,9 @@ The fields for "Security Question", "New Password" and "Repeat New Password" can
 
 **Steps to reproduce**
 1. Go to https://www.juice-shop.herokuapp.com// 
-2. Click on "Account".
-3. Click "Login".
-4. Click "Forgot Password".
+2. Click on "Account"
+3. Click "Login"
+4. Click "Forgot Password"
 5. Follow the steps
 
 **Expected result**
@@ -143,11 +143,11 @@ P4-Normal
 When I change the language to Romanian, not all words are translated.
 
 **Steps to reproduce**
-1. Start Postman.
-2. New Collenction  = "Weather".
-3. Creat a "Request".
+1. Start Postman
+2. New Collenction  = "Weather"
+3. Creat a "Request"
 4. Insert Endpoint "api.openweathermap.org/data/2.5/weather?q=Londra&appid={API key}.
-5. Insert Parameter "lang" with value "ro".
+5. Insert Parameter "lang" with value "ro"
 
 **Expected result**
 
